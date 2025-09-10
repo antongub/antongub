@@ -1,16 +1,14 @@
-## Hi there 👋
+## @antongub 👋
 
-<!--
-**antongub/antongub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+   ____              _                          _     
+  / __ \  __ _ _ __ | |_ ___  _ __   __ _ _   _| |__  
+ / / _` |/ _` | '_ \| __/ _ \| '_ \ / _` | | | | '_ \ 
+| | (_| | (_| | | | | || (_) | | | | (_| | |_| | |_) |
+ \ \__,_|\__,_|_| |_|\__\___/|_| |_|\__, |\__,_|_.__/ 
+  \____/                            |___/             
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Frequently used Skills](https://skillicons.dev/icons?i=arch,kotlin,spring,go,mongodb,gitlab,js,vue&perline=10)](https://skillicons.dev)
